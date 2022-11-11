@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Linh</h1>
-<h3 align="center">I'm student FPT POLYTECHNIC | Infomation Techlonogy</h3>
+<h3 align="center">I'm student FPT POLYTECHNIC | Information Techlnology</h3>
 <p align="center">
 <a href="https://www.facebook.com/linh.con.33449" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
  <a href = "mailto: linhcon24062003@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
