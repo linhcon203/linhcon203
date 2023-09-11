@@ -99,7 +99,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
   </tr>
 </table>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 # Certificates:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
