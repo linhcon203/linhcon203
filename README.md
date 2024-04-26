@@ -1,6 +1,9 @@
 
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Linh</h1>
+
+<h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Linh!;" />
+</h1>
 <p align="center">
   <h3 align="center">I graduated from FPT Polytechnic College | Information Technology</h3>
 </p>
@@ -19,7 +22,7 @@
   <a href="https://www.facebook.com/linh.con.33449/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/linhcon203" alt="Github">
+  <a href="https://github.com/linhcon24" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCPHrc0ZtFGssyefvEpYsUAw" alt="Youtube channel" target="_blank" >
@@ -69,7 +72,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 ## Skills:
 <p align="center">
-      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Technology used!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Languages and Tools !! </i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
@@ -83,14 +86,20 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
    <img src="https://img.icons8.com/color/48/000000/leaf.png"/>
  
 </p>
+<p align="center">
+<!--       <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /><img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p> -->
+<p align="center">
+ <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+
+</p>
 
 ## Activities:
-
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhcon203&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="linhcon203" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=linhcon203&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="linhcon203" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhcon24&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="linhcon24" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=linhcon24&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="linhcon24" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -102,9 +111,13 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 # Certificates:
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg"/>
 
 - ![COURSERA](https://img.shields.io/badge/-COURSERA-blue) English Topnotch 2.2 at FPT Polytechnic College
 - ![COURSERA](https://img.shields.io/badge/-COURSERA-green) Basic office computing at FPT Polytechnic College
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+!+✌️;+Shoot+me+a+message+on+Email+!">
+</h3>
 
 
